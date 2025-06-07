@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~1dAAmDba#pTUQbFl4L6STQauOGC6UMcGZTZudGT7OkU4VKAVtp44",
+SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~9FoyWQ4S#4dFCkeMIUBtWhFdVFNZIW2eIL9Mfjqu0zsgTYb--taQ",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -38,7 +38,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃",
 // add bot name here for menu
-STICKER_NAME: process.env.STICKER_NAME || "CHELSO",
+STICKER_NAME: process.env.STICKER_NAME || "☆CHELSON☆",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custom emoji react    
